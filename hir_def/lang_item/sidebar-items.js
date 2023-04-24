@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["GenericRequirement","LangItem","LangItemTarget"],"fn":["lang_attr"],"struct":["LangItems"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["ModuleOrigin","ModuleSource"],"mod":["attr_resolution","diagnostics","proc_macro"],"struct":["DefMap","ModuleData"]};

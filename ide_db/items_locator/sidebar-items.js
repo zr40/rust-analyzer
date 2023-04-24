@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["AssocItemSearch"],"fn":["items_with_name"],"static":["DEFAULT_QUERY_SEARCH_LIMIT"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["ArithOp","Array","BinaryOp","BindingAnnotation","CaptureBy","ClosureKind","CmpOp","Expr","ExprOrPatId","Literal","LogicOp","Movability","Ordering","Pat","RangeOp","Statement","UnaryOp"],"mod":["type_ref"],"struct":["Binding","FloatTypeWrapper","Label","MatchArm","RecordFieldPat","RecordLitField"],"type":["BindingId","ExprId","LabelId","PatId"]};

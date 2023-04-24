@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["AnnotationLocation","FilesWatcher","LinkedProject","RustfmtConfig"],"struct":["CallInfoConfig","ClientCommandsConfig","Config","ConfigUpdateError","FilesConfig","HoverActionsConfig","LensConfig","NotificationsConfig","RunnablesConfig","WorkspaceSymbolConfig"]};
